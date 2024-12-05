@@ -23,5 +23,5 @@ python3 exposi4.py
 
 - [@rxclusa](https://www.github.com/rxclusa)
 
-![Logo](https://github.com/rxclusa/EXPOSI4/blob/main/exposi4.gif)
+<div>![Logo](https://github.com/rxclusa/EXPOSI4/blob/main/exposi4.gif)</div>
 
