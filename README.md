@@ -23,6 +23,5 @@ python3 exposi4.py
 
 - [@rxclusa](https://www.github.com/rxclusa)
 
-
-![Video](https://streamable.com/7ef44e)
+![Logo](https://s7.ezgif.com/tmp/ezgif-7-77ecf977f7.gif)
 
