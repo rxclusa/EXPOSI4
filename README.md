@@ -12,7 +12,7 @@ EXPOSI4 is a tool that helps you collect and analyze information from open sourc
 ## Usage/Examples
 
 ```javascript
-git clone https://github.com/rxclusa/exposi4.git
+git clone https://github.com/rxclusa/EXPOSI4.git
 cd exposi4
 pip3 install -r requirements.txt [--break-system-packages]
 python3 exposi4.py
